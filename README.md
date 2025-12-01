@@ -1,1 +1,1 @@
-# console-program-to-manage-faculties-and-students
+Implemented a menu-driven C++ system for managing faculty and student information, leveraging structs, pointers, and dynamic arrays to perform record insertion, deletion, search, average grade calculation, and sorted output.
